@@ -1,4 +1,3 @@
-/// <reference path="../p5.global-mode.d.ts" />
 var mic, fft, barSize, sizeSlider, x;
 var range = [];
 var song, amp, noise;
